@@ -1,7 +1,7 @@
 
 ## Hi 👋, I'm Pratiksha C Khemalapure
    A passionate developer from India<br>
-<br>🌱 I’m currently learning Machine Learning<br><br>👨‍💻 I’m currently working on Python<br><br>📑 Check out my resume here - My Resume<br><br>💬 Ask me about Programming, python<br><br>📫 Reach out to me at khemalapure02@gmail.com<br><br>📑 Check out my resume here <a href="url">My Resume</a> <br><br>
+<br>🌱 I’m currently learning Python<br><br>📑 Check out my resume here - My Resume<br><br>💬 Ask me about Programming, python<br><br>📫 Reach out to me at khemalapure02@gmail.com<br><br>📑 Check out my resume here <a href="url">My Resume</a> <br><br>
 
 
 ## 🌐 Socials:
